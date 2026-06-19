@@ -1,0 +1,89 @@
+#principal{
+    background-color: rgb(155, 136, 155);
+}
+
+#dessert{
+    background-color: rgb(184, 221, 173);
+}
+
+#lasagna{
+    background-color: rgb(228, 186, 124);
+}
+
+#juice{
+    background-color: rgb(103, 143, 126);
+}
+
+#list{
+    background-color: white;
+    padding: 30px;
+    font-size: 40px;
+    margin: 0 150px;
+    border-radius: 10px;
+}
+
+#dingredients{
+    background-color: grey;
+}
+
+#lingredients{
+    background-color: rgba(160, 158, 138, 0.973);
+}
+
+#jingredients{
+    background-color: white;
+}
+
+#home {
+  display: block;
+  margin: 50px auto; /* Un margen fijo arriba/abajo para separarlo, y auto a los lados */
+  text-align: center; /* Para que el texto "Home" se centre dentro de su propio bloque */
+  font-size: 50px;
+}
+
+.title{
+    text-decoration: underline;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.index{
+    color: rgb(6, 6, 75);
+}
+
+.recipe1{
+    color: rgb(87, 59, 0);   
+}
+
+.recipe2{
+    color: rgb(189, 99, 15);   
+}
+
+.recipe3{
+  color: rgb(5, 49, 3);
+}
+
+.images{
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin: 50px auto 50px auto;
+}
+
+.ingredients {
+    background-color: rgb(240, 240, 240); /* Un gris más suave que el 'grey' puro para que contraste con las letras negras */
+    padding: 30px;
+    border-radius: 10px;
+    width: 600px;        /* Le pones un ancho fijo */
+    margin: 20px auto;   /* Se separa 20px de lo de arriba/abajo y se centra SOLO al medio */
+    font-size: 20px;
+}
+
+.step {
+    padding: 30px;
+    width: 600px;        /* Mismo ancho para que se alineen perfectamente */
+    margin: 20px auto;   /* Centrado automático */
+    font-size: 20px;
+}
